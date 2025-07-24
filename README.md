@@ -57,7 +57,7 @@ Matilde Simonetti (`matisimonetti`)
 
 Mars-segmentation
 
-- Homework_2-3.pdf
+- Homework_2-3.pdf : report
 - mars_for_students.npz  : dataset
 - notebooks  
   • Model1.ipynb  
