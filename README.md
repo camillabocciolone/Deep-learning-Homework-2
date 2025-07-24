@@ -1,2 +1,2 @@
-# Deep learning Homework 2
-Semantic segmentation of 64x128 grayscale images representing Mars terrain and classification of each pixel in 5 categories
+# Mars Terrain Semantic Segmentation
+The goal of this project is to develop a Convolutional Neural Network (CNN) for semantic segmentation of 64×128 grayscale images representing Martian terrain. The network is designed to classify each pixel into one of five categories: Background, Soil, Bedrock, Sand, and Big Rock. This segmentation facilitates detailed analysis of the Martian surface by distinguishing key terrain features.
