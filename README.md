@@ -55,10 +55,11 @@ Matilde Simonetti (`matisimonetti`)
 
 ## 📁 Repository Structure
 
-Mars-segmentation/  
-├── Homework_2-3.pdf  
-├── mars_for_students.npz  
-├── notebooks/  
-│   ├── Model1.ipynb  
-│   └── Finalmodel.ipynb  
-├── README.md  
+Mars-segmentation
+
+• Homework_2-3.pdf : report 
+• mars_for_students.npz  : dataset
+• notebooks  
+  • Model1.ipynb  
+  • Finalmodel.ipynb  
+• README.md
